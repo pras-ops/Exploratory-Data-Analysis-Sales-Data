@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Sales-Data
-#Findings:
+# Findings:
 1. Sales amount, sales cost amount, sales margin amount and sales amount based on list price are strongly correlated.
 2. Discount amount is strongly positively correlated to sales amount, sales cost amount, sales margin amount and sales amount based on list price.
 3. Sales quantity is mildly positively correlated to sales amount, sales cost amount, sales margin amount and sales amount based on list price.
